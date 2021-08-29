@@ -13,17 +13,26 @@ local function IWQJ_fake_script()
 		local currentAnimKeyframeHandler = nil
 		local currentAnimSpeed = 1.0
 		local animTable = {}
+		--[[ Like, bruh, obv I bytcode the shit animations and stuff, what if they just search on github for the animation ID bruuuh
+		Also, if you see this then, yeah, you guys found this, kinda bad, but acceptable
+		!!!!!!!! If you guys want to talk with me, say it in the ]]--
+		
+		-- ngl if you guys realy found this by yourself, then wow.
+		-- btw I have time, this is why I have time to comment shit on a github raw page, about this
 		local animNames = { 
 			idle = 	{	
-				{ id = "http://www.roblox.com/asset/?id=5746196887", weight = 1 },
-				{ id = "http://www.roblox.com/asset/?id=5746196887", weight = 1 },
-				{ id = "http://www.roblox.com/asset/?id=5746196887", weight = 9 }
+				{ id = \39\104\116\116\112\58\47\47\119\119\119\46\114\111\98\108\111\120\46\99\111\109\47\97\115\115\101\116\47\63\105\100\61\53\55\52\54\49\57\54\56\56\55\39
+, weight = 1 },
+				{ id = \39\104\116\116\112\58\47\47\119\119\119\46\114\111\98\108\111\120\46\99\111\109\47\97\115\115\101\116\47\63\105\100\61\53\55\52\54\49\57\54\56\56\55\39
+, weight = 1 },
+				{ id = \39\104\116\116\112\58\47\47\119\119\119\46\114\111\98\108\111\120\46\99\111\109\47\97\115\115\101\116\47\63\105\100\61\53\55\52\54\49\57\54\56\56\55\39
+, weight = 9 }
 			},
 			walk = 	{ 	
-				{ id = "http://www.roblox.com/asset/?id=6543621484", weight = 10 } 
+				{ id = \39\104\116\116\112\58\47\47\119\119\119\46\114\111\98\108\111\120\46\99\111\109\47\97\115\115\101\116\47\63\105\100\61\54\53\52\51\54\50\49\52\56\52\39, weight = 10 } 
 			}, 
 			run = 	{
-				{ id = "http://www.roblox.com/asset/?id=6250913015", weight = 10 } 
+				{ id = \39\104\116\116\112\58\47\47\119\119\119\46\114\111\98\108\111\120\46\99\111\109\47\97\115\115\101\116\47\63\105\100\61\54\50\53\48\57\49\51\48\49\53\39, weight = 10 } 
 			}, 
 			swim = 	{
 				{ id = "http://www.roblox.com/asset/?id=507784897", weight = 10 } 
@@ -82,7 +91,7 @@ local function IWQJ_fake_script()
 			},
 		}
 		
-		-- Existance in this list signifies that it is an emote, the value indicates if it is a looping emote
+		
 		local emoteNames = { wave = false, point = false, dance = true, dance2 = true, dance3 = true, laugh = false, cheer = false}
 		
 		math.randomseed(tick())
