@@ -13,10 +13,8 @@ local function IWQJ_fake_script()
 		local currentAnimKeyframeHandler = nil
 		local currentAnimSpeed = 1.0
 		local animTable = {}
-		--[[ Like, bruh, obv I bytcode the shit animations and stuff, what if they just search on github for the animation ID bruuuh
-		Also, if you see this then, yeah, you guys found this, kinda bad, but acceptable
-		!!!!!!!! If you guys want to talk with me, say it in the ]]--
-		
+		-- Like, bruh, obv I bytcode the shit animations and stuff, what if they just search on github for the animation ID bruuuh
+		-- Also, if you see this then, yeah, you guys found this, kinda bad, but acceptable
 		-- ngl if you guys realy found this by yourself, then wow.
 		-- btw I have time, this is why I have time to comment shit on a github raw page, about this
 		local animNames = { 
