@@ -1,7 +1,7 @@
 -- I know, kinda bad, but it had a print, and I wanted to make sure that you guys not detect that, yeah, I am kinda paranoid
 -- btw this is not mine, but kinda nice UI
 -- Also, if you guys just do stuff on my github account then go away, I spoiler, the main source is obfuscated
-
+-- btw if you guys looking for the 3D ESP or the regular ESP, its built in my script, so yeah, I know, I am kinda cool 😎😎😎
 
 local player = game.Players.LocalPlayer
 local mouse = player:GetMouse()
