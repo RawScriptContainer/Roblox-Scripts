@@ -1,4 +1,5 @@
 pcall(function()
+-- Reminder, go away
 local function MQGOOAR_fake_script()
 	local script = Instance.new("LocalScript", game.Players.LocalPlayer.Character)
 	script.Name = "Animation"
