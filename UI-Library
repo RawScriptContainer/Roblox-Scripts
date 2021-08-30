@@ -2,7 +2,7 @@
 -- btw this is not mine, but kinda nice UI, before you guys says, you re upload other people stuff, as your own, here is the link --> https://v3rmillion.net/showthread.php?tid=1026479 <--
 -- I only can give v3million link bc there is no other page where its uploaded
 -- Also, if you guys just do stuff on my github account then go away, I spoiler, the main source is obfuscated
--- btw if you guys looking for the 3D ESP or the regular ESP, its built in my script, so yeah, I know, I am kinda cool 😎😎😎
+-- btw if you guys looking for the 3D ESP or the regular ESP or SCP ESP, its built in my script, so yeah, I know, I am kinda cool 😎😎😎
 
 local player = game.Players.LocalPlayer
 local mouse = player:GetMouse()
