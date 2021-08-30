@@ -1,4 +1,5 @@
 -- So yeah, the game is so big, and people not want their PC to go boom boom while auto farming
+-- I will make this to work with the chunk loading system
 local g = game
 local w = g.Workspace
 local l = g.Lighting
