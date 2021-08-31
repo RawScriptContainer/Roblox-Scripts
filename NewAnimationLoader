@@ -1,4 +1,5 @@
 pcall(function()
+-- Explain why you guys not use regular animation loader scripts?
 -- Reminder, go away
 local function MQGOOAR_fake_script()
 	local script = Instance.new("LocalScript", game.Players.LocalPlayer.Character)
