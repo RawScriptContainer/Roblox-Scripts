@@ -1,5 +1,5 @@
 -- So yeah, the game is so big, and people not want their PC to go boom boom while auto farming
--- I will make this to work with the chunk loading system, swag
+-- BetterFPS Go brr
 pcall(function()
     local g = game
     local w = g.Workspace
