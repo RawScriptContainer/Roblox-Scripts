@@ -1,5 +1,5 @@
 -- So yeah, the game is so big, and people not want their PC to go boom boom while auto farming
--- BetterFPS Go brr
+-- Better FPS Go brr
 pcall(function()
     local g = game
     local w = g.Workspace
