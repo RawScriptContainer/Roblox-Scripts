@@ -17,6 +17,7 @@ do
 end
 
 local imgui = Instance.new("ScreenGui")
+syn.protect_gui(imgui)
 local Prefabs = Instance.new("Frame")
 local Label = Instance.new("TextLabel")
 local Window = Instance.new("ImageLabel")
