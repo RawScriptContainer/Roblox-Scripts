@@ -13,7 +13,7 @@ local DrawingLibrary = {};
 local DrawingLibraryPrivate = {};
 local screenGUIs = {};
 
-local Maid = loadstring(game:HttpGet('https://raw.githubusercontent.com/Aztup/Aztup-Hub-V3-Utils/main/Maid.lua'))()
+local Maid = loadstring(game:HttpGet('https://raw.githubusercontent.com/RawScriptContainer/Roblox-Scripts/main/Maid.lua'))()
 local Signal = loadstring(game:HttpGet('https://raw.githubusercontent.com/RawScriptContainer/Roblox-Scripts/main/Signal.lua'))()
 
 DrawingLibrary.DrawingLibrary = true;
