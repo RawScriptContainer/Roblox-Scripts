@@ -3,7 +3,7 @@
 -- @classmod Maid
 -- @see Signal
 
-local Signal = sharedRequire('./Signal.lua');
+local Signal = loadstring(game:HttpGet('https://raw.githubusercontent.com/RawScriptContainer/Roblox-Scripts/main/Signal.lua'))();
 
 local Maid = {}
 Maid.ClassName = "Maid"
